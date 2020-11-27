@@ -1,2 +1,6 @@
 # emojibomb
 fafafa
+
+💣
+
+💥
